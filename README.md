@@ -14,9 +14,9 @@ A robust user account system has been implemented with the following features:
 
 - OAuth login via 42 intranet.
 - Unique user names, avatar uploads, and default avatar options.
-- Two-factor authentication for enhanced security.
+- Two-factor authentication (2FA) for enhanced security.
 - Friend system with real-time online status tracking.
-- Comprehensive user profiles displaying stats, achievements, and match history.
+- Comprehensive user profiles displaying stats, rank, achievements, and match history.
 
 ## Chat:
 A comprehensive chat system enhances user interaction with features such as:
@@ -33,6 +33,20 @@ The primary focus of the website is live Pong matches against other players, fea
 - A matchmaking system facilitating automatic player pairing.
 - Customization options including power-ups and different maps.
 - Responsive game design addressing network issues, ensuring an optimal user experience.
+
+## Technologies:
+The project leverages the following technologies:
+
+- React.js
+- Next.js
+- Redux
+- Axios
+- Matter.js
+- Tailwind CSS
+- Socket.io
+- Nest.js
+- Prisma
+- Passport.js
 
 ## Team:
 - [Haytham Mokhtari](https://github.com/haytham10)
